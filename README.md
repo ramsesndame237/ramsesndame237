@@ -3,7 +3,7 @@
 
 <p>
   My name is NJOH NDAME Victor Lucien, I am Senior Software developer from <b><em><u>Yaounde, Cameroon</u></em></b> <img src="./assets/cameroon.png" width="18"/><br/>
-  <a href="" target="_blank" alt="bpsmartdesign.resume.pdf"><em>View my Resume</em> 😎</a>
+  <a href="" target="_blank" alt="bpsmartdesign.resume.pdf"><em>View my Resume</em>🔭f</a>
 </p>
 
 
