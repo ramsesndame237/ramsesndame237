@@ -1,23 +1,3 @@
----
-
-✅ Résumé des points clés intégrés :
-
-7+ ans d'expérience full-stack
-
-Spécialiste React, Flutter, Vue, Node.js, Prisma
-
-Exemples d’utilisation de SCRUM, UML, CI/CD, AWS
-
-Open-source et mentorat
-
-Portefeuille international & camerounais
-
-
-
----
-
-Ton nouveau README.md (prêt à coller) :
-
 <img src="https://readme-hero-generator.vercel.app/api/hero?name=Ramses%20Ndame&description=Full%20Stack%20Web%20&%20Mobile%20Developer%20|%207+%20ans%20d'expérience&linkedin=victor-ndame-202a2120b&github=ramsesndame237&background=gradient" />
 
 # Salut, moi c’est Ramses Ndame
