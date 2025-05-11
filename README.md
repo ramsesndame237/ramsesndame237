@@ -65,7 +65,5 @@ Je construis des **applications utiles** et travaille activement à **devenir un
 > *“Code is art, and I believe in building software that matters.”*
 
 
----
 
-Tu peux simplement copier-coller tout ça dans le fichier README.md à la racine de ton dépôt GitHub. Besoin d’aide pour modifier les liens vers tes projets ou ton portfolio ?
 
